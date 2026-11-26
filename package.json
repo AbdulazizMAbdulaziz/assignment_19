@@ -1,0 +1,28 @@
+{
+  "name": "assignment_19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulazizMAbdulaziz/assignment_19.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AbdulazizMAbdulaziz/assignment_19/issues"
+  },
+  "homepage": "https://github.com/AbdulazizMAbdulaziz/assignment_19#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
